@@ -39,4 +39,4 @@ You **will not be judged** on:
 - The content of any text or image(s) or where a link is hyperlinked to.
 
 
-**Link to my Notebook**:Tools for Data Science/DataScienceEcosystem.ipynb
+**Link to my Notebook**:[Tools for Data Science/DataScienceEcosystem.ipynb](https://github.com/Krupa3006/Data-science-IBM/blob/5892315014ab593e2f3a01617b44c1a848353b31/Tools%20for%20Data%20Science/DataScienceEcosystem.ipynb)https://github.com/Krupa3006/Data-science-IBM/blob/5892315014ab593e2f3a01617b44c1a848353b31/Tools%20for%20Data%20Science/DataScienceEcosystem.ipynb
